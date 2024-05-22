@@ -4,15 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rutvija-mali/Book-Data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rutvija-mali/Book-Data.git/issues"
+  },
+  "homepage": "https://github.com/rutvija-mali/Book-Data.git#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
